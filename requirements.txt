@@ -1,3 +1,4 @@
-tensorflow-cpu
+tensorflow-cpu==2.13.0
 streamlit
 numpy
+keras==2.13.0
