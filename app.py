@@ -31,8 +31,3 @@ if st.button("Generate Text"):
     output = generate_text(seed.lower(), words)
     st.success("Generated Text:")
     st.write(output)
-```
-
-### ✅ requirements.txt Ye Karo:
-```
-streamlit
